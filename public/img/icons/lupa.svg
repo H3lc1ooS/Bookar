@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>lupa</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+        <path d="M6.9160224,18.7481912 L1.41421356,24.25 L0,22.8357864 L5.40318288,17.2880746 C3.85064627,15.4576512 2.91421356,13.0881834 2.91421356,10.5 C2.91421356,4.70101013 7.61522369,0 13.4142136,0 C19.2132034,0 23.9142136,4.70101013 23.9142136,10.5 C23.9142136,16.2989899 19.2132034,21 13.4142136,21 C10.9606201,21 8.70358659,20.1584272 6.9160224,18.7481912 Z M13.4142136,19 C18.1086339,19 21.9142136,15.1944204 21.9142136,10.5 C21.9142136,5.80557963 18.1086339,2 13.4142136,2 C8.71979319,2 4.91421356,5.80557963 4.91421356,10.5 C4.91421356,15.1944204 8.71979319,19 13.4142136,19 Z" id="path-3"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lupa">
+            <g id="cheio">
+                <g id="cor-base">
+                    <g id="Mask" fill="#D8D8D8" fill-rule="nonzero">
+                        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+                    </g>
+                    <g id="cor/azul-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="cor/azul" mask="url(#mask-2)" fill="#395DDC" fill-rule="nonzero">
+                            <rect id="Rectangle" x="0" y="0" width="70" height="40"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="icon/lupa" transform="translate(8.000000, 8.000000)">
+                <g id="icon-cor">
+                    <g id="Mask" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M6.9160224,18.7481912 L1.41421356,24.25 L0,22.8357864 L5.40318288,17.2880746 C3.85064627,15.4576512 2.91421356,13.0881834 2.91421356,10.5 C2.91421356,4.70101013 7.61522369,0 13.4142136,0 C19.2132034,0 23.9142136,4.70101013 23.9142136,10.5 C23.9142136,16.2989899 19.2132034,21 13.4142136,21 C10.9606201,21 8.70358659,20.1584272 6.9160224,18.7481912 Z M13.4142136,19 C18.1086339,19 21.9142136,15.1944204 21.9142136,10.5 C21.9142136,5.80557963 18.1086339,2 13.4142136,2 C8.71979319,2 4.91421356,5.80557963 4.91421356,10.5 C4.91421356,15.1944204 8.71979319,19 13.4142136,19 Z" id="path-3"></path>
+                    </g>
+                    <g id="cor/branca-Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-3"></g>
+                        <g id="cor/branca" mask="url(#mask-4)">
+                            <g transform="translate(-8.000000, -8.000000)" id="Rectangle-2">
+                                <g>
+                                    <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="70" height="40"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

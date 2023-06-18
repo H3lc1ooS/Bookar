@@ -1,0 +1,31 @@
+#txt-ligth{
+    color: #fff;
+}
+
+.logoForm{
+    height: 100px;
+    width: 100px;
+}
+
+.usename{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.moreSpace{
+    margin-top: 15%;
+}
+
+.mt-lowspace{
+    margin-top: -20;
+}
+
+#txt-allert{
+    color: #fff;
+    font-weight: bold;
+    font-size: large;
+}
+
+.homeSearch__form{
+    height: 20%;
+}
